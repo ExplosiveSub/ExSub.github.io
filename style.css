@@ -1,0 +1,42 @@
+body {
+	 background-image: url("http://quotesbae.com/wp-content/uploads/2018/01/Bazinga-Meme-Funny-Image-Photo-Joke-06.png");
+	 background-size: cover;
+}
+.title {
+		color:ff0000;
+		text-align: center;
+		font-size:120px;
+		font-family: "Comic Sans MS";
+}
+.head {
+		color:ff0000;
+		text-align: center;
+		font-size:85px;
+		font-family: "Comic Sans MS";
+}
+.bodyul {
+		color:ff0000;
+		text-align: center;
+		font-size:75px;
+		font-family: "Comic Sans MS";
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	font-size:25px;
+	color:ffffff;
+	font-family: "Comic Sans MS";
+	text-shadow: 2px 2px #000000;
+}
+.body {
+		color:ffffff;
+		text-shadow: 2px 2px #000000
+		font-size:15px;
+}
